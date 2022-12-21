@@ -1,0 +1,123 @@
+.nav{
+    width: 100%;
+    height: 30px;
+    border: 2px solid red;
+    display: flex;
+    background: none;
+    color: white;
+}
+.btn-home{
+        position: absolute;
+        top: 54%;
+        left: 86%;
+        height: 50px;
+        background: none;
+        color: aliceblue;
+        /* background-color: none; */
+        width: 170px;
+        font-size: 30px;
+        border-radius: 20px;
+        transform: rotate(90deg);
+}
+.r-h{
+    /* transform: rotate(90deg); */
+}
+.li-img{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+}
+.ul-r{
+    display: flex;
+    /* flex-direction: col; */
+    list-style: none;
+    margin: 10px 10px;
+    margin-top: 50px;
+    margin-left: 50px;
+    color: aliceblue;
+}
+.ul-r>li{
+    /* margin: 10px 10px; */
+}
+.l-btn{
+    margin-left: 92px;
+    height: 40px;
+    width: 120px;
+    font-size: 20px;
+}
+.btn-home:hover{
+    color: white;
+}
+#my-img{
+    height: 406px;
+    width: 406px;
+    display: block;
+    margin: 18% auto;
+}
+.r{
+    height: 700px;
+    width: 40%;
+    /* border: 2px solid red; */
+    justify-content: center;
+}
+.l{
+    height: 700px;
+    width: 60%;
+    /* border: 2px solid red; */
+}
+.r>h1{
+    margin-top: 38%;
+    color: aliceblue;
+    font-family: myFirstFont;
+    align-items: center;
+    margin-left: 16%;
+}
+.home>h3{
+    /* margin: 10px 10px; */
+    color: white;
+}
+#myvedio{
+        position: fixed;
+        right: 0;
+        bottom: 0;
+        min-width: 100%; 
+        min-height: 100%;
+}
+html{
+    scroll-behavior: smooth;
+}
+.nav-link{
+    font-size: 19px;
+    color: #007bff !important;
+    cursor: pointer;
+    padding: 0px 0px;
+}
+.nav-item{
+    /* margin: 2px 13px ; */
+    margin-right: 30px;
+}
+.form-inline{
+    /* border: 2px solid red; */
+    width: 150px;
+    margin: 2px 13px;
+    margin-right: 30px;
+}
+.btn{
+    width: 150px;
+    border: 2px solid #007bff;
+    color: aliceblue;
+    box-shadow: 1px 1px 1px 1px blue;
+} 
+.btn:hover{
+    color: antiquewhite;
+}
+/* .nav-item{
+    font-size: 19px;
+    color: burlywood;
+    cursor: pointer;
+} */
+.active{
+    font-size: 19px;
+    color: #007bff !important;
+    cursor: pointer;
+}

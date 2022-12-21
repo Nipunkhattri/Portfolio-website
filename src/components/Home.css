@@ -1,0 +1,58 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(../Quando-Regular.ttf);
+}
+.hme{
+    background: url("../image1.jpg") no-repeat center center/cover;
+    height: 750px;
+    width: 100%;
+}
+.head{
+    position: absolute;
+    top: 18%;
+    left: 13%;
+    font-size: 30px;
+    font-family: myFirstFont;
+    color: whitesmoke;
+}
+.head1{
+    position: absolute;
+    top: 23%;
+    left: 13%;
+    font-size: 18px;
+    font-family: poppins;
+    /* font-family: myFirstFont; */
+    /* word-spacing: 5; */
+    color: whitesmoke;
+}
+.btn1{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    color: whitesmoke;
+    cursor: pointer;
+    top: 85%;
+    left: 45%;
+    border-radius: 50%;
+    font-size: 18px;
+    font-family: poppins;
+    /* font-family: myFirstFont; */
+    /* word-spacing: 5; */
+    /* color:   whitesmoke;*/
+    background:none;
+    border: 2px solid whitesmoke;
+}
+.head2{
+    position: absolute;
+    top: 85.4%;
+    height: 40px;
+    color: whitesmoke;
+    border-end-end-radius: 12px;
+    left: 37.3%;
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+}
+.x{
+    display: none;
+}

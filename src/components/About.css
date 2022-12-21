@@ -1,0 +1,66 @@
+.about{
+    height: 700px;
+    width: 100%;
+    /* border: 2px solid red; */
+    /* opacity: 0.9; */
+    /* background: url("../blackbg.jpg") no-repeat center center/cover; */
+    background: radial-gradient(circle at 24.1% 68.8%, rgb(50, 50, 50) 0%, rgb(0, 0, 0) 99.4%);
+    color: black;
+    display: flex;
+}
+.one{
+    /* background: url("../bg.jpg") no-repeat center center/cover;
+    /* opacity: 1; 
+    filter: blur(4px); */
+    /* border: 2px solid red; */
+    width: 73%;
+    height: 60%;
+    position: relative;
+    top: 112px;
+    left: 220px;
+    display: flex;
+    background-color: aliceblue;
+    border: 1px solid black;
+    /* box-shadow: 1px 1px 5px 3px whitesmoke; */
+    border-radius: 12px;
+}
+.two{
+    /* border: 2px solid red; */
+
+}
+.second{
+    height: 340px;
+    width: 27%;
+    /* border: 2px solid red; */
+    /* border-bottom-left-radius: 32px; */
+    position: relative;
+    top: 38px;
+    right: 120px;
+    border-radius: 12px;
+    box-shadow: -1px 1px 7px 3px black;
+    color: aliceblue;
+}
+.img{
+    height: 340px;
+    border-radius: 12px;
+    width: 100%;
+    /* border-bottom-left-radius: 32px; */
+}
+.first{
+    height: 400px;
+    width: 600px;
+    /* border: 2px solid blue; */
+    color: black;
+}
+.para{
+    font-size: 20px;
+    font-family: poppins;
+    align-items: center;
+    margin: 12px 12px;
+    margin-top: 85px;
+}
+
+.btn{
+    margin-left: 12px;
+    border-radius: 20px;
+}

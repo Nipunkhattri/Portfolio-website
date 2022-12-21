@@ -1,0 +1,106 @@
+.contact{
+    height: 745px;
+    width: 100%;
+}
+.up{
+    height: 100px;
+    width: 100%;
+    /* border: 2px solid red; */
+    justify-content: center;
+    text-align: center;
+    margin-top: 100px;
+}
+.ch1{
+    font-size: 31px;
+    font-weight: 700;
+}
+.down{
+    height: 560px;
+    width: 80%;
+    margin-left: 163px;
+    /* border: 2px solid black; */
+    display: flex;
+}
+.cl{
+    height: 558px;
+    width: 440px;
+    /* border: 2px solid blue; */
+    background-color: black;
+    color: aliceblue;
+    /* background: url("../climg (3).png") no-repeat center center/cover; */
+}
+.cig1{
+    height: 30px;
+    width: 30px;
+    margin: 11px;
+}
+.cig2{
+    height: 30px;
+    width: 30px;
+    margin: 11px;
+    margin-left: 22px;
+    border-radius: 12px;
+}
+p{
+    margin-top:16px;
+    margin-left:12px;
+}
+.social{
+    display: flex;
+    margin-top: 14px;
+    margin-left: 2px;
+}
+.ccbg{
+       height: 198px;
+    width: 402px;
+    margin-left: 13px;
+}
+.cr{
+    height: 555px;
+    width: 770px;
+    /* border: 2px solid red; */
+}
+.ctall{
+        height: 391px;
+    width: 550px;
+    /* border: 2px solid red; */
+    margin: 58px 64px;
+}
+.t1{
+    width: 45%;
+    outline: none;
+    border: none;
+    background-color: #f5f5f500;
+    border-bottom: 2px solid black;
+    margin-top: 65px;
+    margin-left: 11px;
+}
+.t2{
+    width: 47%;
+    background-color: #f5f5f500;
+    border: none;
+    border-bottom: 2px solid black;
+    margin-left: 11px;
+}
+.t3{
+    width: 94%;
+    margin: 59px 13px;
+    display: flex;
+    flex-direction: column;
+}
+.t4{
+    border: none;
+    border-bottom: 2px solid black;
+    width: 100%;
+    margin: 18px 0px;
+    background-color: #f5f5f500;
+}
+.cbtn{
+    background-color: #007bff;
+    border: none;
+    border-radius: 12px;
+    margin-top: 22px;
+    height: 30px;
+    color: aliceblue;
+    font-size: 17px;
+}
